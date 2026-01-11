@@ -29,7 +29,7 @@ If you like coding and want to help make Nyx even better, here’s how you can g
 
 ### 1. Get the Code
 ```bash
-git clone https://github.com/yourusername/nyx.git
+git clone https://github.com/KerbalMissile/nyx.git
 cd nyx
 ```
 
