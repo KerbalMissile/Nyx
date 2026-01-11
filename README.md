@@ -78,4 +78,4 @@ Just open an issue or send a pull request!
 
 ---
 
-*Nyx — where shared knowledge lights up the night.*
+*Nyx where shared knowledge lights up the night.*
