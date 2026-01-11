@@ -1,6 +1,6 @@
 # Nyx Lighting Up Shared Knowledge 🌌
 
-<img width="800" height="600" alt="NyxLogo" src="https://github.com/user-attachments/assets/b622307a-437f-48ae-93e4-d7fec6afc19f" />
+<img width="616" height="249" alt="NyxLogo" src="https://github.com/user-attachments/assets/96d98b32-69f0-4372-a1fb-02ab9f04ca73" />
 
 Hey! Welcome to **Nyx**, a cool website where people from all over the world can connect quickly to help each other learn stuff. No boring long videos or waiting forever for answers, just real people ready to help you right now, all in a sleek black and purple look.
 
