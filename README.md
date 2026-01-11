@@ -1,6 +1,6 @@
-# Nyx — Lighting Up Shared Knowledge 🌌
+# Nyx Lighting Up Shared Knowledge 🌌
 
-Hey! Welcome to **Nyx**, a cool website where people from all over the world can connect super fast to help each other learn stuff. No boring long videos or waiting forever for answers — just real people ready to help you right now, all in a slick black and purple look.
+Hey! Welcome to **Nyx**, a cool website where people from all over the world can connect quickly to help each other learn stuff. No boring long videos or waiting forever for answers, just real people ready to help you right now, all in a sleek black and purple look.
 
 ---
 
@@ -17,7 +17,7 @@ You don’t need to be a tech wizard or download anything. Just open the website
 
 ## Communities (Nodes)
 
-Nyx is made up of different **Nodes** — these are like communities or groups, kind of like subreddits. You can join a Node to find people who share your interests or skills.
+Nyx is made up of different **Nodes** these are like communities or groups, kind of like subreddits. You can join a Node to find people who share your interests or skills.
 
 ---
 
